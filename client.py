@@ -1,5 +1,7 @@
 
 # (c) 2023 Roland Labana 
+# simple client server program
+
 import socket
 
 # Create a socket object
