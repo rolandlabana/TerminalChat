@@ -1,3 +1,6 @@
+
+#(c) Roland Labana
+
 import socket
 import threading
 
